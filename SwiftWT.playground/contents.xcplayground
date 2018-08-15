@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<playground version='6.0' target-platform='macos' display-mode='raw' executeOnSourceChanges='false'>
+    <pages>
+        <page name='Index'/>
+        <page name='Basics'/>
+        <page name='Basic Operators'/>
+        <page name='Strings and Characters'/>
+        <page name='Collection Types'/>
+        <page name='Control Flow'/>
+        <page name='Functions'/>
+        <page name='Closures'/>
+        <page name='Enumerations'/>
+        <page name='Structures and Classes'/>
+        <page name='Properties'/>
+        <page name='Methods'/>
+        <page name='Subscripts'/>
+        <page name='Inheritance'/>
+        <page name='Initialization'/>
+        <page name='Deinitialization'/>
+        <page name='Optional Chaining'/>
+        <page name='Error Handling'/>
+        <page name='Type Casting'/>
+        <page name='Nested Types'/>
+        <page name='Extensions'/>
+        <page name='Protocols'/>
+        <page name='Generics'/>
+        <page name='Automatic Reference Counting'/>
+        <page name='Memory Safety'/>
+        <page name='Access Control'/>
+        <page name='Advanced Operators'/>
+        <page name='Pattern Matching'/>
+        <page name='Type System'/>
+    </pages>
+</playground>
