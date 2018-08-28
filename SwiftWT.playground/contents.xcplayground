@@ -30,5 +30,6 @@
         <page name='Advanced Operators'/>
         <page name='Pattern Matching'/>
         <page name='Type System'/>
+        <page name='Runtime'/>
     </pages>
 </playground>
